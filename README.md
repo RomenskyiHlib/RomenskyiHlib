@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, everyone!
+#### I'm Romenskyi Hlib
+from Ukraine
 
 <!--
 **RomenskyiHlib/RomenskyiHlib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

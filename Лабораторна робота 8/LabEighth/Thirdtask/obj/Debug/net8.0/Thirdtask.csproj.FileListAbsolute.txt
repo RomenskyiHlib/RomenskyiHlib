@@ -1,0 +1,14 @@
+D:\Документи\1 курс\СМООП\Labeighth 0.2\Thirdtask\bin\Debug\net8.0\Thirdtask.exe
+D:\Документи\1 курс\СМООП\Labeighth 0.2\Thirdtask\bin\Debug\net8.0\Thirdtask.deps.json
+D:\Документи\1 курс\СМООП\Labeighth 0.2\Thirdtask\bin\Debug\net8.0\Thirdtask.runtimeconfig.json
+D:\Документи\1 курс\СМООП\Labeighth 0.2\Thirdtask\bin\Debug\net8.0\Thirdtask.dll
+D:\Документи\1 курс\СМООП\Labeighth 0.2\Thirdtask\bin\Debug\net8.0\Thirdtask.pdb
+D:\Документи\1 курс\СМООП\Labeighth 0.2\Thirdtask\obj\Debug\net8.0\Thirdtask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\1 курс\СМООП\Labeighth 0.2\Thirdtask\obj\Debug\net8.0\Thirdtask.AssemblyInfoInputs.cache
+D:\Документи\1 курс\СМООП\Labeighth 0.2\Thirdtask\obj\Debug\net8.0\Thirdtask.AssemblyInfo.cs
+D:\Документи\1 курс\СМООП\Labeighth 0.2\Thirdtask\obj\Debug\net8.0\Thirdtask.csproj.CoreCompileInputs.cache
+D:\Документи\1 курс\СМООП\Labeighth 0.2\Thirdtask\obj\Debug\net8.0\Thirdtask.dll
+D:\Документи\1 курс\СМООП\Labeighth 0.2\Thirdtask\obj\Debug\net8.0\refint\Thirdtask.dll
+D:\Документи\1 курс\СМООП\Labeighth 0.2\Thirdtask\obj\Debug\net8.0\Thirdtask.pdb
+D:\Документи\1 курс\СМООП\Labeighth 0.2\Thirdtask\obj\Debug\net8.0\Thirdtask.genruntimeconfig.cache
+D:\Документи\1 курс\СМООП\Labeighth 0.2\Thirdtask\obj\Debug\net8.0\ref\Thirdtask.dll

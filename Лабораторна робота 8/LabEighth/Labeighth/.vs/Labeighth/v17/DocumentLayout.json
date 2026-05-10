@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 8\\LabEighth\\Labeighth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCF01BB-7709-4913-9E15-5BFFE701DAAD}|Labeighth.csproj|d:\\perforasd\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 8\\labeighth\\labeighth\\utility\\shopgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCF01BB-7709-4913-9E15-5BFFE701DAAD}|Labeighth.csproj|solutionrelative:utility\\shopgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCF01BB-7709-4913-9E15-5BFFE701DAAD}|Labeighth.csproj|d:\\perforasd\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 8\\labeighth\\labeighth\\utility\\fulltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCF01BB-7709-4913-9E15-5BFFE701DAAD}|Labeighth.csproj|solutionrelative:utility\\fulltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCF01BB-7709-4913-9E15-5BFFE701DAAD}|Labeighth.csproj|d:\\perforasd\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 8\\labeighth\\labeighth\\model\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCF01BB-7709-4913-9E15-5BFFE701DAAD}|Labeighth.csproj|solutionrelative:model\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCF01BB-7709-4913-9E15-5BFFE701DAAD}|Labeighth.csproj|d:\\perforasd\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 8\\labeighth\\labeighth\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCF01BB-7709-4913-9E15-5BFFE701DAAD}|Labeighth.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCF01BB-7709-4913-9E15-5BFFE701DAAD}|Labeighth.csproj|d:\\perforasd\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 8\\labeighth\\labeighth\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCF01BB-7709-4913-9E15-5BFFE701DAAD}|Labeighth.csproj|solutionrelative:model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopGenerator.cs",
+              "DocumentMoniker": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 8\\LabEighth\\Labeighth\\utility\\ShopGenerator.cs",
+              "RelativeDocumentMoniker": "utility\\ShopGenerator.cs",
+              "ToolTip": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 8\\LabEighth\\Labeighth\\utility\\ShopGenerator.cs",
+              "RelativeToolTip": "utility\\ShopGenerator.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:20:18.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FullTest.cs",
+              "DocumentMoniker": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 8\\LabEighth\\Labeighth\\utility\\FullTest.cs",
+              "RelativeDocumentMoniker": "utility\\FullTest.cs",
+              "ToolTip": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 8\\LabEighth\\Labeighth\\utility\\FullTest.cs",
+              "RelativeToolTip": "utility\\FullTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:20:08.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 8\\LabEighth\\Labeighth\\model\\Shop.cs",
+              "RelativeDocumentMoniker": "model\\Shop.cs",
+              "ToolTip": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 8\\LabEighth\\Labeighth\\model\\Shop.cs",
+              "RelativeToolTip": "model\\Shop.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAuwIEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:18:41.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 8\\LabEighth\\Labeighth\\model\\Product.cs",
+              "RelativeDocumentMoniker": "model\\Product.cs",
+              "ToolTip": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 8\\LabEighth\\Labeighth\\model\\Product.cs",
+              "RelativeToolTip": "model\\Product.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wCkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:17:30.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 8\\LabEighth\\Labeighth\\model\\Person.cs",
+              "RelativeDocumentMoniker": "model\\Person.cs",
+              "ToolTip": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 8\\LabEighth\\Labeighth\\model\\Person.cs",
+              "RelativeToolTip": "model\\Person.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:16:10.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

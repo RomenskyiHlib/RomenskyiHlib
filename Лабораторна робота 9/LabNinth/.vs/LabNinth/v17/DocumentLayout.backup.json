@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 9\\LabNinth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A07B35-034B-4C16-9F33-003785D4245B}|..\\FirstTask\\ThirdTask.csproj|d:\\perforasd\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 9\\firsttask\\thirdtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 9\\ThirdTask\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F305C6-47B5-44EF-A006-9702D550B026}|LabNinth.csproj|d:\\perforasd\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 9\\labninth\\model\\birthday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F305C6-47B5-44EF-A006-9702D550B026}|LabNinth.csproj|solutionrelative:model\\birthday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F305C6-47B5-44EF-A006-9702D550B026}|LabNinth.csproj|d:\\perforasd\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 9\\labninth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F305C6-47B5-44EF-A006-9702D550B026}|LabNinth.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\utility\\TestMethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\utility\\ArmoryPrinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\utility\\ArmoryGenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\model\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\model\\ArmoryCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\model\\Armory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\interfaces\\IArmory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThirdTask",
+              "DocumentMoniker": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 9\\FirstTask\\ThirdTask.csproj",
+              "RelativeDocumentMoniker": "..\\FirstTask\\ThirdTask.csproj",
+              "ToolTip": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 9\\FirstTask\\ThirdTask.csproj",
+              "RelativeToolTip": "..\\FirstTask\\ThirdTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-10T17:00:41.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 9\\ThirdTask\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ThirdTask\\Program.cs",
+              "ToolTip": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 9\\ThirdTask\\Program.cs",
+              "RelativeToolTip": "..\\ThirdTask\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T17:00:04.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\Program.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T16:55:01.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestMethods.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\utility\\TestMethods.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\utility\\TestMethods.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\utility\\TestMethods.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\utility\\TestMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T16:54:58.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArmoryPrinter.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\utility\\ArmoryPrinter.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\utility\\ArmoryPrinter.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\utility\\ArmoryPrinter.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\utility\\ArmoryPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T16:54:56.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArmoryGenerate.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\utility\\ArmoryGenerate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\utility\\ArmoryGenerate.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\utility\\ArmoryGenerate.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\utility\\ArmoryGenerate.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T16:54:53.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\model\\Item.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\model\\Item.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\model\\Item.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\model\\Item.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T16:54:46.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArmoryCategory.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\model\\ArmoryCategory.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\model\\ArmoryCategory.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\model\\ArmoryCategory.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\model\\ArmoryCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T16:54:42.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Armory.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\model\\Armory.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\model\\Armory.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\model\\Armory.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\model\\Armory.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T16:54:38.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IArmory.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\interfaces\\IArmory.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\interfaces\\IArmory.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\interfaces\\IArmory.cs",
+              "RelativeToolTip": "..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\FirstTask\\interfaces\\IArmory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T16:54:35.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 9\\LabNinth\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 9\\LabNinth\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T16:53:53.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BirthDay.cs",
+              "DocumentMoniker": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 9\\LabNinth\\model\\BirthDay.cs",
+              "RelativeDocumentMoniker": "model\\BirthDay.cs",
+              "ToolTip": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 9\\LabNinth\\model\\BirthDay.cs",
+              "RelativeToolTip": "model\\BirthDay.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T16:52:54.388Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

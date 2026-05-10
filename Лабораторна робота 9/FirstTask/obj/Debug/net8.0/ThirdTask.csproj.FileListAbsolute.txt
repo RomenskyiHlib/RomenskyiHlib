@@ -1,0 +1,14 @@
+D:\Документи\1 курс\СМООП\FirstTask\bin\Debug\net8.0\ThirdTask.exe
+D:\Документи\1 курс\СМООП\FirstTask\bin\Debug\net8.0\ThirdTask.deps.json
+D:\Документи\1 курс\СМООП\FirstTask\bin\Debug\net8.0\ThirdTask.runtimeconfig.json
+D:\Документи\1 курс\СМООП\FirstTask\bin\Debug\net8.0\ThirdTask.dll
+D:\Документи\1 курс\СМООП\FirstTask\bin\Debug\net8.0\ThirdTask.pdb
+D:\Документи\1 курс\СМООП\FirstTask\obj\Debug\net8.0\ThirdTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\1 курс\СМООП\FirstTask\obj\Debug\net8.0\ThirdTask.AssemblyInfoInputs.cache
+D:\Документи\1 курс\СМООП\FirstTask\obj\Debug\net8.0\ThirdTask.AssemblyInfo.cs
+D:\Документи\1 курс\СМООП\FirstTask\obj\Debug\net8.0\ThirdTask.csproj.CoreCompileInputs.cache
+D:\Документи\1 курс\СМООП\FirstTask\obj\Debug\net8.0\ThirdTask.dll
+D:\Документи\1 курс\СМООП\FirstTask\obj\Debug\net8.0\refint\ThirdTask.dll
+D:\Документи\1 курс\СМООП\FirstTask\obj\Debug\net8.0\ThirdTask.pdb
+D:\Документи\1 курс\СМООП\FirstTask\obj\Debug\net8.0\ThirdTask.genruntimeconfig.cache
+D:\Документи\1 курс\СМООП\FirstTask\obj\Debug\net8.0\ref\ThirdTask.dll

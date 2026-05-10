@@ -1,0 +1,14 @@
+D:\Документи\1 курс\СМООП\LabNinth\obj\Debug\net8.0\LabNinth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\1 курс\СМООП\LabNinth\obj\Debug\net8.0\LabNinth.AssemblyInfoInputs.cache
+D:\Документи\1 курс\СМООП\LabNinth\obj\Debug\net8.0\LabNinth.AssemblyInfo.cs
+D:\Документи\1 курс\СМООП\LabNinth\obj\Debug\net8.0\LabNinth.csproj.CoreCompileInputs.cache
+D:\Документи\1 курс\СМООП\LabNinth\bin\Debug\net8.0\LabNinth.exe
+D:\Документи\1 курс\СМООП\LabNinth\bin\Debug\net8.0\LabNinth.deps.json
+D:\Документи\1 курс\СМООП\LabNinth\bin\Debug\net8.0\LabNinth.runtimeconfig.json
+D:\Документи\1 курс\СМООП\LabNinth\bin\Debug\net8.0\LabNinth.dll
+D:\Документи\1 курс\СМООП\LabNinth\bin\Debug\net8.0\LabNinth.pdb
+D:\Документи\1 курс\СМООП\LabNinth\obj\Debug\net8.0\LabNinth.dll
+D:\Документи\1 курс\СМООП\LabNinth\obj\Debug\net8.0\refint\LabNinth.dll
+D:\Документи\1 курс\СМООП\LabNinth\obj\Debug\net8.0\LabNinth.pdb
+D:\Документи\1 курс\СМООП\LabNinth\obj\Debug\net8.0\LabNinth.genruntimeconfig.cache
+D:\Документи\1 курс\СМООП\LabNinth\obj\Debug\net8.0\ref\LabNinth.dll

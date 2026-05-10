@@ -1,0 +1,14 @@
+D:\Документи\1 курс\СМООП\SecondTask\obj\Debug\net8.0\SecondTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\1 курс\СМООП\SecondTask\obj\Debug\net8.0\SecondTask.AssemblyInfoInputs.cache
+D:\Документи\1 курс\СМООП\SecondTask\obj\Debug\net8.0\SecondTask.AssemblyInfo.cs
+D:\Документи\1 курс\СМООП\SecondTask\obj\Debug\net8.0\SecondTask.csproj.CoreCompileInputs.cache
+D:\Документи\1 курс\СМООП\SecondTask\bin\Debug\net8.0\SecondTask.exe
+D:\Документи\1 курс\СМООП\SecondTask\bin\Debug\net8.0\SecondTask.deps.json
+D:\Документи\1 курс\СМООП\SecondTask\bin\Debug\net8.0\SecondTask.runtimeconfig.json
+D:\Документи\1 курс\СМООП\SecondTask\bin\Debug\net8.0\SecondTask.dll
+D:\Документи\1 курс\СМООП\SecondTask\bin\Debug\net8.0\SecondTask.pdb
+D:\Документи\1 курс\СМООП\SecondTask\obj\Debug\net8.0\SecondTask.dll
+D:\Документи\1 курс\СМООП\SecondTask\obj\Debug\net8.0\refint\SecondTask.dll
+D:\Документи\1 курс\СМООП\SecondTask\obj\Debug\net8.0\SecondTask.pdb
+D:\Документи\1 курс\СМООП\SecondTask\obj\Debug\net8.0\SecondTask.genruntimeconfig.cache
+D:\Документи\1 курс\СМООП\SecondTask\obj\Debug\net8.0\ref\SecondTask.dll

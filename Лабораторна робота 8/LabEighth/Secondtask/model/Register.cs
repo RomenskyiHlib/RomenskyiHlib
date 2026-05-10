@@ -69,7 +69,7 @@ namespace Labeighth.second
 
             foreach (var d in listOfDevices)
             {
-                if (d.Name.Equals(name, StringComparison.OrdinalIgnoreCase))
+                if (d.Name.Equals(name))
                     return d;
             }
             return null;
@@ -92,7 +92,7 @@ namespace Labeighth.second
         {
             for (int i = 0; i < count; i++)
             {
-                if (listOfDevices[i].Name.Equals(name, StringComparison.OrdinalIgnoreCase))
+                if (listOfDevices[i].Name.Equals(name))
                 {
    
                     for (int j = i; j < count - 1; j++)

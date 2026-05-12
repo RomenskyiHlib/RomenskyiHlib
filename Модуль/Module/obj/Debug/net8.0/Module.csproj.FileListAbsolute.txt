@@ -1,0 +1,14 @@
+C:\Users\7401\Desktop\Пара\Module\bin\Debug\net8.0\Module.exe
+C:\Users\7401\Desktop\Пара\Module\bin\Debug\net8.0\Module.deps.json
+C:\Users\7401\Desktop\Пара\Module\bin\Debug\net8.0\Module.runtimeconfig.json
+C:\Users\7401\Desktop\Пара\Module\bin\Debug\net8.0\Module.dll
+C:\Users\7401\Desktop\Пара\Module\bin\Debug\net8.0\Module.pdb
+C:\Users\7401\Desktop\Пара\Module\obj\Debug\net8.0\Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7401\Desktop\Пара\Module\obj\Debug\net8.0\Module.AssemblyInfoInputs.cache
+C:\Users\7401\Desktop\Пара\Module\obj\Debug\net8.0\Module.AssemblyInfo.cs
+C:\Users\7401\Desktop\Пара\Module\obj\Debug\net8.0\Module.csproj.CoreCompileInputs.cache
+C:\Users\7401\Desktop\Пара\Module\obj\Debug\net8.0\Module.dll
+C:\Users\7401\Desktop\Пара\Module\obj\Debug\net8.0\refint\Module.dll
+C:\Users\7401\Desktop\Пара\Module\obj\Debug\net8.0\Module.pdb
+C:\Users\7401\Desktop\Пара\Module\obj\Debug\net8.0\Module.genruntimeconfig.cache
+C:\Users\7401\Desktop\Пара\Module\obj\Debug\net8.0\ref\Module.dll

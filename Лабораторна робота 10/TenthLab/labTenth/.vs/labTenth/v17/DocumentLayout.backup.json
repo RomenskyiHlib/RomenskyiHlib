@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 10\\TenthLab\\labTenth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C648A3CE-7868-44B2-B399-299FF955D62D}|labTenth.csproj|d:\\perforasd\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 10\\tenthlab\\labtenth\\service\\numbersthings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C648A3CE-7868-44B2-B399-299FF955D62D}|labTenth.csproj|solutionrelative:service\\numbersthings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C648A3CE-7868-44B2-B399-299FF955D62D}|labTenth.csproj|d:\\perforasd\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 10\\tenthlab\\labtenth\\service\\geometrythings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C648A3CE-7868-44B2-B399-299FF955D62D}|labTenth.csproj|solutionrelative:service\\geometrythings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C648A3CE-7868-44B2-B399-299FF955D62D}|labTenth.csproj|d:\\perforasd\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 10\\tenthlab\\labtenth\\service\\datetimethings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C648A3CE-7868-44B2-B399-299FF955D62D}|labTenth.csproj|solutionrelative:service\\datetimethings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Model\\Suitcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Utility\\TestProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Utility\\MakeData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Utility\\InformationPrinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Utility\\SuitcaseMethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Service\\SuitcaseService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Model\\ItemPriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Model\\ItemEventArgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Model\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NumbersThings.cs",
+              "DocumentMoniker": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 10\\TenthLab\\labTenth\\Service\\NumbersThings.cs",
+              "RelativeDocumentMoniker": "Service\\NumbersThings.cs",
+              "ToolTip": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 10\\TenthLab\\labTenth\\Service\\NumbersThings.cs",
+              "RelativeToolTip": "Service\\NumbersThings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:22:56.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeometryThings.cs",
+              "DocumentMoniker": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 10\\TenthLab\\labTenth\\Service\\GeometryThings.cs",
+              "RelativeDocumentMoniker": "Service\\GeometryThings.cs",
+              "ToolTip": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 10\\TenthLab\\labTenth\\Service\\GeometryThings.cs",
+              "RelativeToolTip": "Service\\GeometryThings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:22:52.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DateTimeThings.cs",
+              "DocumentMoniker": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 10\\TenthLab\\labTenth\\Service\\DateTimeThings.cs",
+              "RelativeDocumentMoniker": "Service\\DateTimeThings.cs",
+              "ToolTip": "D:\\PerForAsd\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 10\\TenthLab\\labTenth\\Service\\DateTimeThings.cs",
+              "RelativeToolTip": "Service\\DateTimeThings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:22:45.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestProgram.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Utility\\TestProgram.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Utility\\TestProgram.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Utility\\TestProgram.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Utility\\TestProgram.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:16:38.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MakeData.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Utility\\MakeData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Utility\\MakeData.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Utility\\MakeData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Utility\\MakeData.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:14:45.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InformationPrinter.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Utility\\InformationPrinter.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Utility\\InformationPrinter.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Utility\\InformationPrinter.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Utility\\InformationPrinter.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:14:28.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SuitcaseMethods.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Utility\\SuitcaseMethods.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Utility\\SuitcaseMethods.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Utility\\SuitcaseMethods.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Utility\\SuitcaseMethods.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:13:44.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SuitcaseService.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Service\\SuitcaseService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Service\\SuitcaseService.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Service\\SuitcaseService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Service\\SuitcaseService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBcAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:13:27.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Suitcase.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Model\\Suitcase.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Model\\Suitcase.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Model\\Suitcase.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Model\\Suitcase.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAIwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:12:18.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemPriority.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Model\\ItemPriority.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Model\\ItemPriority.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Model\\ItemPriority.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Model\\ItemPriority.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:12:16.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemEventArgs.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Model\\ItemEventArgs.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Model\\ItemEventArgs.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Model\\ItemEventArgs.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Model\\ItemEventArgs.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:12:12.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Model\\Item.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Model\\Item.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Model\\Item.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\1 \u043A\u0443\u0440\u0441\\\u0421\u041C\u041E\u041E\u041F\\TenthLab\\SecondTask\\Model\\Item.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:12:07.38Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

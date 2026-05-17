@@ -1,0 +1,43 @@
+D:\Документи\1 курс\СМООП\labTenth\obj\Debug\net8.0\labTenth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\1 курс\СМООП\labTenth\obj\Debug\net8.0\labTenth.AssemblyInfoInputs.cache
+D:\Документи\1 курс\СМООП\labTenth\obj\Debug\net8.0\labTenth.AssemblyInfo.cs
+D:\Документи\1 курс\СМООП\labTenth\obj\Debug\net8.0\labTenth.csproj.CoreCompileInputs.cache
+D:\Документи\1 курс\СМООП\labTenth\bin\Debug\net8.0\labTenth.exe
+D:\Документи\1 курс\СМООП\labTenth\bin\Debug\net8.0\labTenth.deps.json
+D:\Документи\1 курс\СМООП\labTenth\bin\Debug\net8.0\labTenth.runtimeconfig.json
+D:\Документи\1 курс\СМООП\labTenth\bin\Debug\net8.0\labTenth.dll
+D:\Документи\1 курс\СМООП\labTenth\bin\Debug\net8.0\labTenth.pdb
+D:\Документи\1 курс\СМООП\labTenth\obj\Debug\net8.0\labTenth.dll
+D:\Документи\1 курс\СМООП\labTenth\obj\Debug\net8.0\refint\labTenth.dll
+D:\Документи\1 курс\СМООП\labTenth\obj\Debug\net8.0\labTenth.pdb
+D:\Документи\1 курс\СМООП\labTenth\obj\Debug\net8.0\labTenth.genruntimeconfig.cache
+D:\Документи\1 курс\СМООП\labTenth\obj\Debug\net8.0\ref\labTenth.dll
+D:\Документи\1 курс\СМООП\TenthLab\labTenth\obj\Debug\net8.0\labTenth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\1 курс\СМООП\TenthLab\labTenth\obj\Debug\net8.0\labTenth.AssemblyInfoInputs.cache
+D:\Документи\1 курс\СМООП\TenthLab\labTenth\obj\Debug\net8.0\labTenth.AssemblyInfo.cs
+D:\Документи\1 курс\СМООП\TenthLab\labTenth\obj\Debug\net8.0\labTenth.csproj.CoreCompileInputs.cache
+D:\Документи\1 курс\СМООП\TenthLab\labTenth\obj\Debug\net8.0\labTenth.dll
+D:\Документи\1 курс\СМООП\TenthLab\labTenth\obj\Debug\net8.0\refint\labTenth.dll
+D:\Документи\1 курс\СМООП\TenthLab\labTenth\obj\Debug\net8.0\labTenth.pdb
+D:\Документи\1 курс\СМООП\TenthLab\labTenth\bin\Debug\net8.0\labTenth.exe
+D:\Документи\1 курс\СМООП\TenthLab\labTenth\bin\Debug\net8.0\labTenth.deps.json
+D:\Документи\1 курс\СМООП\TenthLab\labTenth\bin\Debug\net8.0\labTenth.runtimeconfig.json
+D:\Документи\1 курс\СМООП\TenthLab\labTenth\bin\Debug\net8.0\labTenth.dll
+D:\Документи\1 курс\СМООП\TenthLab\labTenth\bin\Debug\net8.0\labTenth.pdb
+D:\Документи\1 курс\СМООП\TenthLab\labTenth\obj\Debug\net8.0\labTenth.genruntimeconfig.cache
+D:\Документи\1 курс\СМООП\TenthLab\labTenth\obj\Debug\net8.0\ref\labTenth.dll
+D:\PerForAsd\Лабораторна робота 10\TenthLab\labTenth\bin\Debug\net8.0\labTenth.exe
+D:\PerForAsd\Лабораторна робота 10\TenthLab\labTenth\bin\Debug\net8.0\labTenth.deps.json
+D:\PerForAsd\Лабораторна робота 10\TenthLab\labTenth\bin\Debug\net8.0\labTenth.runtimeconfig.json
+D:\PerForAsd\Лабораторна робота 10\TenthLab\labTenth\bin\Debug\net8.0\labTenth.dll
+D:\PerForAsd\Лабораторна робота 10\TenthLab\labTenth\bin\Debug\net8.0\labTenth.pdb
+D:\PerForAsd\Лабораторна робота 10\TenthLab\labTenth\obj\Debug\net8.0\labTenth.GeneratedMSBuildEditorConfig.editorconfig
+D:\PerForAsd\Лабораторна робота 10\TenthLab\labTenth\obj\Debug\net8.0\labTenth.AssemblyInfoInputs.cache
+D:\PerForAsd\Лабораторна робота 10\TenthLab\labTenth\obj\Debug\net8.0\labTenth.AssemblyInfo.cs
+D:\PerForAsd\Лабораторна робота 10\TenthLab\labTenth\obj\Debug\net8.0\labTenth.csproj.CoreCompileInputs.cache
+D:\PerForAsd\Лабораторна робота 10\TenthLab\labTenth\obj\Debug\net8.0\labTenth.sourcelink.json
+D:\PerForAsd\Лабораторна робота 10\TenthLab\labTenth\obj\Debug\net8.0\labTenth.dll
+D:\PerForAsd\Лабораторна робота 10\TenthLab\labTenth\obj\Debug\net8.0\refint\labTenth.dll
+D:\PerForAsd\Лабораторна робота 10\TenthLab\labTenth\obj\Debug\net8.0\labTenth.pdb
+D:\PerForAsd\Лабораторна робота 10\TenthLab\labTenth\obj\Debug\net8.0\labTenth.genruntimeconfig.cache
+D:\PerForAsd\Лабораторна робота 10\TenthLab\labTenth\obj\Debug\net8.0\ref\labTenth.dll
